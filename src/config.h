@@ -1,7 +1,7 @@
 // define ssid name
-#define WIFI_SSID "Casa"
+#define WIFI_SSID ""
 // define ssid password
-#define WIFI_PASS "h3llo 2 u!"
+#define WIFI_PASS ""
 
 // define firebase host path
 #define FIREBASE_HOST "firestore.googleapis.com"
